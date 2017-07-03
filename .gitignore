@@ -1,0 +1,8 @@
+target/
+.idea/*
+test_set.iml
+*.iws
+build/
+
+src/main/
+.idea/
